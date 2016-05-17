@@ -1,0 +1,24 @@
+{
+    "aaData": 
+   [
+	{"Name":"NADAC Comparison as of 2016-01-06","Link":"https://data.medicaid.gov/d/vhkg-mysc","Type":"NADAC Comparison","ID":"vhkg-mysc","Date":"2016-01-06","Year":2016,"Month":"January"},
+	{"Name":"NADAC Comparison as of 2016-01-13","Link":"https://data.medicaid.gov/d/fxi5-63mt","Type":"NADAC Comparison","ID":"fxi5-63mt","Date":"2016-01-13","Year":2016,"Month":"January"},
+	{"Name":"NADAC Comparison as of 2016-01-20","Link":"https://data.medicaid.gov/d/9hri-j4zj","Type":"NADAC Comparison","ID":"9hri-j4zj","Date":"2016-01-20","Year":2016,"Month":"January"},
+	{"Name":"NADAC Comparison as of 2016-01-27","Link":"https://data.medicaid.gov/d/nvy6-d8qu","Type":"NADAC Comparison","ID":"nvy6-d8qu","Date":"2016-01-27","Year":2016,"Month":"January"},
+	{"Name":"NADAC Comparison as of 2016-02-03","Link":"https://data.medicaid.gov/d/ya4d-b9wx","Type":"NADAC Comparison","ID":"ya4d-b9wx","Date":"2016-02-03","Year":2016,"Month":"February"},
+	{"Name":"NADAC Comparison as of 2016-02-10","Link":"https://data.medicaid.gov/d/jujs-mcqn","Type":"NADAC Comparison","ID":"jujs-mcqn","Date":"2016-02-10","Year":2016,"Month":"February"},
+	{"Name":"NADAC Comparison as of 2016-02-17","Link":"https://data.medicaid.gov/d/bqzv-5int","Type":"NADAC Comparison","ID":"bqzv-5int","Date":"2016-02-17","Year":2016,"Month":"February"},
+	{"Name":"NADAC Comparison as of 2016-02-24","Link":"https://data.medicaid.gov/d/i668-bf66","Type":"NADAC Comparison","ID":"i668-bf66","Date":"2016-02-24","Year":2016,"Month":"February"},
+	{"Name":"NADAC Comparison as of 2016-03-02","Link":"https://data.medicaid.gov/d/fr3s-73gt","Type":"NADAC Comparison","ID":"fr3s-73gt","Date":"2016-03-02","Year":2016,"Month":"March"},
+	{"Name":"NADAC Comparison as of 2016-03-09","Link":"https://data.medicaid.gov/d/8fd4-khec","Type":"NADAC Comparison","ID":"8fd4-khec","Date":"2016-03-09","Year":2016,"Month":"March"},
+	{"Name":"NADAC Comparison as of 2016-03-16","Link":"https://data.medicaid.gov/d/ryni-2qrk","Type":"NADAC Comparison","ID":"ryni-2qrk","Date":"2016-03-16","Year":2016,"Month":"March"},
+	{"Name":"NADAC Comparison as of 2016-03-23","Link":"https://data.medicaid.gov/d/ek9t-xz2y","Type":"NADAC Comparison","ID":"ek9t-xz2y","Date":"2016-03-23","Year":2016,"Month":"March"},
+	{"Name":"NADAC Comparison as of 2016-03-30","Link":"https://data.medicaid.gov/d/vn4g-ypu6","Type":"NADAC Comparison","ID":"vn4g-ypu6","Date":"2016-03-30","Year":2016,"Month":"March"},
+	{"Name":"NADAC Comparison as of 2016-04-06","Link":"https://data.medicaid.gov/d/m4xp-q6f8","Type":"NADAC Comparison","ID":"m4xp-q6f8","Date":"2016-04-06","Year":2016,"Month":"April"},
+	{"Name":"NADAC Comparison as of 2016-04-13","Link":"https://data.medicaid.gov/d/fhbm-g54h","Type":"NADAC Comparison","ID":"fhbm-g54h","Date":"2016-04-13","Year":2016,"Month":"April"},
+	{"Name":"NADAC Comparison as of 2016-04-20","Link":"https://data.medicaid.gov/d/hyj3-erzt","Type":"NADAC Comparison","ID":"hyj3-erzt","Date":"2016-04-20","Year":2016,"Month":"April"},
+	{"Name":"NADAC Comparison as of 2016-04-27","Link":"https://data.medicaid.gov/d/4c66-jgia","Type":"NADAC Comparison","ID":"4c66-jgia","Date":"2016-04-27","Year":2016,"Month":"April"},
+	{"Name":"NADAC Comparison as of 2016-05-04","Link":"https://data.medicaid.gov/d/5tws-9uz8","Type":"NADAC Comparison","ID":"5tws-9uz8","Date":"2016-05-04","Year":2016,"Month":"May"},
+	{"Name":"NADAC Comparison as of 2016-05-11","Link":"https://data.medicaid.gov/d/r8nk-ucgf","Type":"NADAC Comparison","ID":"r8nk-ucgf","Date":"2016-05-11","Year":2016,"Month":"May"},
+    {"Name":"NADAC Comparison as of 2016-05-18","Link":"https://data.medicaid.gov/d/cr4a-ju65","Type":"NADAC Comparison","ID":"cr4a-ju65","Date":"2016-05-18","Year":2016,"Month":"May"}]
+}

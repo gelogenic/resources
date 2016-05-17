@@ -1,0 +1,660 @@
+[
+
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "7.36%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "122,334",
+    "total_medicaid_and_chip_enrollment_current_month": "131,334",
+    "percent_change_month_to_month": "3.67%",
+    "medicaid_expansion": "Y",
+    "state": "Alaska",
+    "total_medicaid_and_chip_enrollment_previous_month": "126,684",
+    "net_change_pre_open_enrollment_to_current_month": "9,000"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "39.93%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,201,770",
+    "total_medicaid_and_chip_enrollment_current_month": "1,681,587",
+    "percent_change_month_to_month": "-0.11%",
+    "medicaid_expansion": "Y",
+    "state": "Arizona",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,683,439",
+    "net_change_pre_open_enrollment_to_current_month": "479,817"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "50.72%",
+    "marketplace_type": "Partnership",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "556,851",
+    "total_medicaid_and_chip_enrollment_current_month": "839,277",
+    "percent_change_month_to_month": "-1.09%",
+    "medicaid_expansion": "Y",
+    "state": "Arkansas",
+    "total_medicaid_and_chip_enrollment_previous_month": "848,509",
+    "net_change_pre_open_enrollment_to_current_month": "282,426"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "52.81%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "7,637,273",
+    "total_medicaid_and_chip_enrollment_current_month": "11,670,308",
+    "percent_change_month_to_month": "-0.06%",
+    "medicaid_expansion": "Y",
+    "state": "California",
+    "total_medicaid_and_chip_enrollment_previous_month": "11,676,767",
+    "net_change_pre_open_enrollment_to_current_month": "4,033,035"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "67.87%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "783,420",
+    "total_medicaid_and_chip_enrollment_current_month": "1,315,144",
+    "percent_change_month_to_month": "1.38%",
+    "medicaid_expansion": "Y",
+    "state": "Colorado",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,297,304",
+    "net_change_pre_open_enrollment_to_current_month": "531,724"
+
+},
+{
+
+    "marketplace_type": "SBM",
+    "total_medicaid_and_chip_enrollment_current_month": "746,047",
+    "percent_change_month_to_month": "1.47%",
+    "medicaid_expansion": "Y",
+    "state": "Connecticut",
+    "total_medicaid_and_chip_enrollment_previous_month": "735,208"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "8.23%",
+    "marketplace_type": "Partnership",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "223,324",
+    "total_medicaid_and_chip_enrollment_current_month": "241,704",
+    "percent_change_month_to_month": "0.41%",
+    "medicaid_expansion": "Y",
+    "state": "Delaware",
+    "total_medicaid_and_chip_enrollment_previous_month": "240,708",
+    "net_change_pre_open_enrollment_to_current_month": "18,380"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "11.67%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "235,786",
+    "total_medicaid_and_chip_enrollment_current_month": "263,296",
+    "percent_change_month_to_month": "0.79%",
+    "medicaid_expansion": "Y",
+    "state": "District of Columbia",
+    "total_medicaid_and_chip_enrollment_previous_month": "261,237",
+    "net_change_pre_open_enrollment_to_current_month": "27,510"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "17.44%",
+    "marketplace_type": "SBM**",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "288,357",
+    "total_medicaid_and_chip_enrollment_current_month": "338,656",
+    "percent_change_month_to_month": "1.15%",
+    "medicaid_expansion": "Y",
+    "state": "Hawaii",
+    "total_medicaid_and_chip_enrollment_previous_month": "334,820",
+    "net_change_pre_open_enrollment_to_current_month": "50,299"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "17.37%",
+    "marketplace_type": "Partnership",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "2,626,943",
+    "total_medicaid_and_chip_enrollment_current_month": "3,083,179",
+    "percent_change_month_to_month": "-0.61%",
+    "medicaid_expansion": "Y",
+    "state": "Illinois",
+    "total_medicaid_and_chip_enrollment_previous_month": "3,102,058",
+    "net_change_pre_open_enrollment_to_current_month": "456,236"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "27.38%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,120,674",
+    "total_medicaid_and_chip_enrollment_current_month": "1,427,492",
+    "percent_change_month_to_month": "0.14%",
+    "medicaid_expansion": "Y",
+    "state": "Indiana",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,425,511",
+    "net_change_pre_open_enrollment_to_current_month": "306,818"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "23.37%",
+    "marketplace_type": "Partnership",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "493,515",
+    "total_medicaid_and_chip_enrollment_current_month": "608,837",
+    "percent_change_month_to_month": "-0.12%",
+    "medicaid_expansion": "Y",
+    "state": "Iowa",
+    "total_medicaid_and_chip_enrollment_previous_month": "609,589",
+    "net_change_pre_open_enrollment_to_current_month": "115,322"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "94.35%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "606,805",
+    "total_medicaid_and_chip_enrollment_current_month": "1,179,314",
+    "percent_change_month_to_month": "0.46%",
+    "medicaid_expansion": "Y",
+    "state": "Kentucky",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,173,882",
+    "net_change_pre_open_enrollment_to_current_month": "572,509"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "33.07%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "856,297",
+    "total_medicaid_and_chip_enrollment_current_month": "1,139,441",
+    "percent_change_month_to_month": "-0.42%",
+    "medicaid_expansion": "Y",
+    "state": "Maryland",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,144,286",
+    "net_change_pre_open_enrollment_to_current_month": "283,144"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "28.68%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,296,359",
+    "total_medicaid_and_chip_enrollment_current_month": "1,668,206",
+    "percent_change_month_to_month": "2.22%",
+    "medicaid_expansion": "Y",
+    "state": "Massachusetts",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,631,904",
+    "net_change_pre_open_enrollment_to_current_month": "371,847"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "19.35%",
+    "marketplace_type": "Partnership",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,912,009",
+    "total_medicaid_and_chip_enrollment_current_month": "2,281,977",
+    "percent_change_month_to_month": "-0.27%",
+    "medicaid_expansion": "Y",
+    "state": "Michigan",
+    "total_medicaid_and_chip_enrollment_previous_month": "2,288,248",
+    "net_change_pre_open_enrollment_to_current_month": "369,968"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "20.02%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "873,040",
+    "total_medicaid_and_chip_enrollment_current_month": "1,047,832",
+    "percent_change_month_to_month": "1.31%",
+    "medicaid_expansion": "Y",
+    "state": "Minnesota",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,034,321",
+    "net_change_pre_open_enrollment_to_current_month": "174,792"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "22.26%",
+    "marketplace_type": "Plan Management",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "148,974",
+    "total_medicaid_and_chip_enrollment_current_month": "182,132",
+    "percent_change_month_to_month": "0.58%",
+    "medicaid_expansion": "Y",
+    "state": "Montana",
+    "total_medicaid_and_chip_enrollment_previous_month": "181,074",
+    "net_change_pre_open_enrollment_to_current_month": "33,158"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "79.37%",
+    "marketplace_type": "SBM **",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "332,560",
+    "total_medicaid_and_chip_enrollment_current_month": "596,516",
+    "percent_change_month_to_month": "1.04%",
+    "medicaid_expansion": "Y",
+    "state": "Nevada",
+    "total_medicaid_and_chip_enrollment_previous_month": "590,363",
+    "net_change_pre_open_enrollment_to_current_month": "263,956"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "46.33%",
+    "marketplace_type": "Partnership",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "127,082",
+    "total_medicaid_and_chip_enrollment_current_month": "185,958",
+    "percent_change_month_to_month": "1.67%",
+    "medicaid_expansion": "Y",
+    "state": "New Hampshire",
+    "total_medicaid_and_chip_enrollment_previous_month": "182,902",
+    "net_change_pre_open_enrollment_to_current_month": "58,876"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "33.27%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,283,851",
+    "total_medicaid_and_chip_enrollment_current_month": "1,710,928",
+    "percent_change_month_to_month": "-0.20%",
+    "medicaid_expansion": "Y",
+    "state": "New Jersey",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,714,434",
+    "net_change_pre_open_enrollment_to_current_month": "427,077"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "61.30%",
+    "marketplace_type": "SBM **",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "457,678",
+    "total_medicaid_and_chip_enrollment_current_month": "738,231",
+    "percent_change_month_to_month": "0.82%",
+    "medicaid_expansion": "Y",
+    "state": "New Mexico",
+    "total_medicaid_and_chip_enrollment_previous_month": "732,196",
+    "net_change_pre_open_enrollment_to_current_month": "280,553"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "16.21%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "5,678,417",
+    "total_medicaid_and_chip_enrollment_current_month": "6,598,700",
+    "percent_change_month_to_month": "0.11%",
+    "medicaid_expansion": "Y",
+    "state": "New York",
+    "total_medicaid_and_chip_enrollment_previous_month": "6,591,498",
+    "net_change_pre_open_enrollment_to_current_month": "920,283"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "27.52%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "69,980",
+    "total_medicaid_and_chip_enrollment_current_month": "89,240",
+    "percent_change_month_to_month": "0.32%",
+    "medicaid_expansion": "Y",
+    "state": "North Dakota",
+    "total_medicaid_and_chip_enrollment_previous_month": "88,955",
+    "net_change_pre_open_enrollment_to_current_month": "19,260"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "25.22%",
+    "marketplace_type": "Plan Management",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "2,341,481",
+    "total_medicaid_and_chip_enrollment_current_month": "2,932,001",
+    "percent_change_month_to_month": "-0.39%",
+    "medicaid_expansion": "Y",
+    "state": "Ohio",
+    "total_medicaid_and_chip_enrollment_previous_month": "2,943,443",
+    "net_change_pre_open_enrollment_to_current_month": "590,520"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "65.00%",
+    "marketplace_type": "SBM **",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "626,356",
+    "total_medicaid_and_chip_enrollment_current_month": "1,033,518",
+    "percent_change_month_to_month": "1.08%",
+    "medicaid_expansion": "Y",
+    "state": "Oregon",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,022,434",
+    "net_change_pre_open_enrollment_to_current_month": "407,162"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "15.00%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "2,386,046",
+    "total_medicaid_and_chip_enrollment_current_month": "2,744,031",
+    "percent_change_month_to_month": "0.83%",
+    "medicaid_expansion": "Y",
+    "state": "Pennsylvania",
+    "total_medicaid_and_chip_enrollment_previous_month": "2,721,509",
+    "net_change_pre_open_enrollment_to_current_month": "357,985"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "46.37%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "190,833",
+    "total_medicaid_and_chip_enrollment_current_month": "279,321",
+    "percent_change_month_to_month": "1.20%",
+    "medicaid_expansion": "Y",
+    "state": "Rhode Island",
+    "total_medicaid_and_chip_enrollment_previous_month": "275,996",
+    "net_change_pre_open_enrollment_to_current_month": "88,488"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "18.20%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "161,081",
+    "total_medicaid_and_chip_enrollment_current_month": "190,398",
+    "percent_change_month_to_month": "0.43%",
+    "medicaid_expansion": "Y",
+    "state": "Vermont",
+    "total_medicaid_and_chip_enrollment_previous_month": "189,577",
+    "net_change_pre_open_enrollment_to_current_month": "29,317"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "58.65%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,117,576",
+    "total_medicaid_and_chip_enrollment_current_month": "1,773,000",
+    "percent_change_month_to_month": "1.16%",
+    "medicaid_expansion": "Y",
+    "state": "Washington",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,752,591",
+    "net_change_pre_open_enrollment_to_current_month": "655,424"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "54.67%",
+    "marketplace_type": "Partnership",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "354,544",
+    "total_medicaid_and_chip_enrollment_current_month": "548,380",
+    "percent_change_month_to_month": "0.28%",
+    "medicaid_expansion": "Y",
+    "state": "West Virginia",
+    "total_medicaid_and_chip_enrollment_previous_month": "546,848",
+    "net_change_pre_open_enrollment_to_current_month": "193,836"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "10.34%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "799,176",
+    "total_medicaid_and_chip_enrollment_current_month": "881,836",
+    "percent_change_month_to_month": "-0.18%",
+    "medicaid_expansion": "N",
+    "state": "Alabama",
+    "total_medicaid_and_chip_enrollment_previous_month": "883,458",
+    "net_change_pre_open_enrollment_to_current_month": "82,660"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "15.17%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "3,104,996",
+    "total_medicaid_and_chip_enrollment_current_month": "3,576,023",
+    "percent_change_month_to_month": "-0.13%",
+    "medicaid_expansion": "N",
+    "state": "Florida",
+    "total_medicaid_and_chip_enrollment_previous_month": "3,580,569",
+    "net_change_pre_open_enrollment_to_current_month": "471,027"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "13.94%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,535,090",
+    "total_medicaid_and_chip_enrollment_current_month": "1,749,136",
+    "percent_change_month_to_month": "0.45%",
+    "medicaid_expansion": "N",
+    "state": "Georgia",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,741,241",
+    "net_change_pre_open_enrollment_to_current_month": "214,046"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "18.12%",
+    "marketplace_type": "SBM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "238,150",
+    "total_medicaid_and_chip_enrollment_current_month": "281,309",
+    "percent_change_month_to_month": "0.45%",
+    "medicaid_expansion": "N",
+    "state": "Idaho",
+    "total_medicaid_and_chip_enrollment_previous_month": "280,061",
+    "net_change_pre_open_enrollment_to_current_month": "43,159"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "6.32%",
+    "marketplace_type": "Plan Management",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "378,160",
+    "total_medicaid_and_chip_enrollment_current_month": "402,055",
+    "percent_change_month_to_month": "0.48%",
+    "medicaid_expansion": "N",
+    "state": "Kansas",
+    "total_medicaid_and_chip_enrollment_previous_month": "400,146",
+    "net_change_pre_open_enrollment_to_current_month": "23,895"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "5.62%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,019,787",
+    "total_medicaid_and_chip_enrollment_current_month": "1,077,109",
+    "percent_change_month_to_month": "-0.25%",
+    "medicaid_expansion": "N",
+    "state": "Louisiana",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,079,805",
+    "net_change_pre_open_enrollment_to_current_month": "57,322"
+
+},
+{
+
+    "marketplace_type": "Plan Management",
+    "total_medicaid_and_chip_enrollment_current_month": "279,000",
+    "percent_change_month_to_month": "-0.39%",
+    "medicaid_expansion": "N",
+    "state": "Maine",
+    "total_medicaid_and_chip_enrollment_previous_month": "280,083"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "8.48%",
+    "marketplace_type": "FFM/SBM-SHOP",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "637,229",
+    "total_medicaid_and_chip_enrollment_current_month": "691,293",
+    "percent_change_month_to_month": "-0.08%",
+    "medicaid_expansion": "N",
+    "state": "Mississippi",
+    "total_medicaid_and_chip_enrollment_previous_month": "691,818",
+    "net_change_pre_open_enrollment_to_current_month": "54,064"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "12.11%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "846,084",
+    "total_medicaid_and_chip_enrollment_current_month": "948,576",
+    "percent_change_month_to_month": "0.95%",
+    "medicaid_expansion": "N",
+    "state": "Missouri",
+    "total_medicaid_and_chip_enrollment_previous_month": "939,669",
+    "net_change_pre_open_enrollment_to_current_month": "102,492"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "-5.32%",
+    "marketplace_type": "Plan Management",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "244,600",
+    "total_medicaid_and_chip_enrollment_current_month": "231,596",
+    "percent_change_month_to_month": "0.11%",
+    "medicaid_expansion": "N",
+    "state": "Nebraska",
+    "total_medicaid_and_chip_enrollment_previous_month": "231,344",
+    "net_change_pre_open_enrollment_to_current_month": "-13,004"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "21.66%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,595,952",
+    "total_medicaid_and_chip_enrollment_current_month": "1,941,561",
+    "percent_change_month_to_month": "0.69%",
+    "medicaid_expansion": "N",
+    "state": "North Carolina",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,928,216",
+    "net_change_pre_open_enrollment_to_current_month": "345,609"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "-1.03%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "790,051",
+    "total_medicaid_and_chip_enrollment_current_month": "781,927",
+    "percent_change_month_to_month": "-1.84%",
+    "medicaid_expansion": "N",
+    "state": "Oklahoma",
+    "total_medicaid_and_chip_enrollment_previous_month": "796,544",
+    "net_change_pre_open_enrollment_to_current_month": "-8,124"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "5.21%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "889,744",
+    "total_medicaid_and_chip_enrollment_current_month": "936,141",
+    "percent_change_month_to_month": "-0.15%",
+    "medicaid_expansion": "N",
+    "state": "South Carolina",
+    "total_medicaid_and_chip_enrollment_previous_month": "937,533",
+    "net_change_pre_open_enrollment_to_current_month": "46,397"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "2.42%",
+    "marketplace_type": "Plan Management",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "115,501",
+    "total_medicaid_and_chip_enrollment_current_month": "118,295",
+    "percent_change_month_to_month": "0.21%",
+    "medicaid_expansion": "N",
+    "state": "South Dakota",
+    "total_medicaid_and_chip_enrollment_previous_month": "118,046",
+    "net_change_pre_open_enrollment_to_current_month": "2,794"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "25.44%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "1,244,516",
+    "total_medicaid_and_chip_enrollment_current_month": "1,561,146",
+    "percent_change_month_to_month": "0.58%",
+    "medicaid_expansion": "N",
+    "state": "Tennessee",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,552,133",
+    "net_change_pre_open_enrollment_to_current_month": "316,630"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "5.50%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "4,441,605",
+    "total_medicaid_and_chip_enrollment_current_month": "4,685,926",
+    "percent_change_month_to_month": "-0.03%",
+    "medicaid_expansion": "N",
+    "state": "Texas",
+    "total_medicaid_and_chip_enrollment_previous_month": "4,687,531",
+    "net_change_pre_open_enrollment_to_current_month": "244,321"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "3.39%",
+    "marketplace_type": "FFM/SBM-SHOP",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "294,029",
+    "total_medicaid_and_chip_enrollment_current_month": "303,990",
+    "percent_change_month_to_month": "0.67%",
+    "medicaid_expansion": "N",
+    "state": "Utah",
+    "total_medicaid_and_chip_enrollment_previous_month": "301,975",
+    "net_change_pre_open_enrollment_to_current_month": "9,961"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "2.18%",
+    "marketplace_type": "Plan Management",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "935,434",
+    "total_medicaid_and_chip_enrollment_current_month": "955,868",
+    "percent_change_month_to_month": "-0.08%",
+    "medicaid_expansion": "N",
+    "state": "Virginia",
+    "total_medicaid_and_chip_enrollment_previous_month": "956,600",
+    "net_change_pre_open_enrollment_to_current_month": "20,434"
+
+},
+{
+
+    "percent_change_pre_open_enrollment_to_current_month": "5.98%",
+    "marketplace_type": "FFM",
+    "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "985,531",
+    "total_medicaid_and_chip_enrollment_current_month": "1,044,478",
+    "percent_change_month_to_month": "0.09%",
+    "medicaid_expansion": "N",
+    "state": "Wisconsin",
+    "total_medicaid_and_chip_enrollment_previous_month": "1,043,555",
+    "net_change_pre_open_enrollment_to_current_month": "58,947"
+
+},
+
+    {
+        "percent_change_pre_open_enrollment_to_current_month": "-4.46%",
+        "marketplace_type": "FFM",
+        "pre_open_enrollment_monthly_average_medicaid_and_chip_enrollment_july_sept_2013": "67,518",
+        "total_medicaid_and_chip_enrollment_current_month": "64,508",
+        "percent_change_month_to_month": "-0.15%",
+        "medicaid_expansion": "N",
+        "state": "Wyoming",
+        "total_medicaid_and_chip_enrollment_previous_month": "64,605",
+        "net_change_pre_open_enrollment_to_current_month": "-3,010"
+    }
+
+]
